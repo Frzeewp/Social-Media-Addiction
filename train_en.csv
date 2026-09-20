@@ -1,0 +1,543 @@
+id,gender,age,country,education_level,social_media_platform,avg_daily_usage_hours,academic_impact,bedtime,wake_time,mental_health_score,relationship_status,social_media_conflicts,addiction
+ID_80,P,21,Maldives,S2,Instagram,4.2,No,20:02,03:50,8,berpasangan,2,No
+ID_52,P,23,Bahamas,S2,LinkedIn,2.8,No,23:25,06:25,8,berpasangan,1,No
+ID_486,female,21,Denmark,S1,Twitter,4.6,No,20:32,03:50,7,berpasangan,2,No
+ID_203,perempuan,19,India,S1,WhatsApp,7.2,Yes,20:00,01:36,5,berpasangan,4,Yes
+ID_317,laki-laki,21,Denmark,S2,Facebook,2.8,No,20:02,05:02,8,berpasangan,2,No
+ID_556,female,20,France,S1,Instagram,3.8,No,23:16,07:28,7,berpasangan,2,No
+ID_652,male,22,Afghanistan,S2,LinkedIn,2.9,No,21:40,04:40,7,hubungan rumit,2,No
+ID_492,P,23,Chile,S2,LinkedIn,2.7,No,20:31,03:37,8,hubungan rumit,1,No
+ID_85,perempuan,18,Syria,SMA,Instagram,5.6,Yes,23:43,05:07,5,lajang,4,Yes
+ID_542,male,21,Maldives,S2,TikTok,4.6,Yes,23:25,03:43,6,berpasangan,4,Yes
+ID_171,perempuan,23,Spain,S2,Facebook,6.4,Yes,21:24,03:36,5,lajang,4,Yes
+ID_574,perempuan,20,Spain,S1,TikTok,5.5,Yes,21:32,03:20,6,berpasangan,2,Yes
+ID_319,male,21,Malaysia,S2,WhatsApp,6.1,Yes,23:14,05:26,6,lajang,3,Yes
+ID_39,female,19,Netherlands,S1,Instagram,3.5,No,20:31,05:01,8,lajang,2,No
+ID_448,P,20,Australia,S1,Instagram,4.5,No,22:43,06:13,8,lajang,2,No
+ID_681,laki-laki,22,Turkey,S2,TikTok,4.8,Yes,20:03,03:27,6,lajang,3,Yes
+ID_654,laki-laki,19,Bangladesh,S1,TikTok,4.9,Yes,21:36,04:18,5,lajang,4,Yes
+ID_227,perempuan,20,Ghana,S1,Snapchat,4.6,Yes,23:35,05:17,6,berpasangan,3,Yes
+ID_195,laki-laki,21,India,S2,WhatsApp,7.5,Yes,22:53,03:41,5,berpasangan,4,Yes
+ID_630,L,21,Finland,S1,Instagram,4.3,No,20:52,04:22,7,berpasangan,2,No
+ID_75,female,19,China,S1,WeChat,5.7,Yes,22:23,05:05,6,berpasangan,3,Yes
+ID_124,L,21,Canada,S2,Instagram,5.3,Yes,23:42,06:36,6,lajang,3,Yes
+ID_489,P,21,Maldives,S2,Instagram,3.4,No,20:20,04:56,8,berpasangan,2,No
+ID_381,P,21,Spain,S1,TikTok,6.4,Yes,21:10,03:22,5,lajang,4,Yes
+ID_431,female,20,Russia,S1,Instagram,6.7,Yes,22:29,04:29,5,lajang,4,Yes
+ID_130,female,19,Spain,S1,Instagram,5.2,Yes,22:22,05:10,6,lajang,3,Yes
+ID_230,P,19,Pakistan,S1,Instagram,5.4,Yes,23:29,05:41,5,berpasangan,4,Yes
+ID_349,female,20,Spain,S1,TikTok,5.1,Yes,22:59,05:41,6,lajang,3,Yes
+ID_418,male,21,UK,S2,Facebook,5.4,Yes,22:55,05:25,6,berpasangan,3,Yes
+ID_512,male,20,UK,S1,Facebook,6.4,Yes,21:17,03:29,5,lajang,4,Yes
+ID_535,laki-laki,21,UK,S2,Facebook,4.6,Yes,21:19,04:19,6,berpasangan,3,Yes
+ID_569,laki-laki,18,Belgium,SMA,TikTok,5.3,Yes,20:57,02:27,5,lajang,4,Yes
+ID_214,female,19,Bangladesh,S1,Instagram,5.3,Yes,20:21,02:27,5,lajang,3,Yes
+ID_190,laki-laki,23,Denmark,S2,Twitter,3.8,No,20:55,04:43,8,berpasangan,2,No
+ID_408,male,24,France,S2,Facebook,4.8,No,21:41,04:47,7,berpasangan,2,No
+ID_73,male,22,Denmark,S2,Facebook,2.7,No,23:18,08:24,8,berpasangan,2,No
+ID_132,P,20,France,S1,Instagram,4.2,No,21:57,05:45,7,berpasangan,2,No
+ID_561,L,22,Russia,S2,VKontakte,4.5,No,21:01,04:25,7,berpasangan,2,No
+ID_71,laki-laki,21,Denmark,S2,Facebook,2.4,No,23:41,09:05,8,berpasangan,2,No
+ID_566,perempuan,22,Bahrain,S2,LinkedIn,2.8,No,21:08,04:14,8,hubungan rumit,1,No
+ID_482,perempuan,19,Spain,S1,Instagram,4.4,Yes,23:27,06:57,6,lajang,3,Yes
+ID_444,male,19,Sri Lanka,S1,TikTok,5.3,Yes,22:15,03:33,6,lajang,3,Yes
+ID_385,perempuan,20,China,S1,TikTok,4.2,Yes,20:54,02:54,6,hubungan rumit,3,Yes
+ID_642,L,22,India,S2,Facebook,4.4,No,20:41,05:29,7,berpasangan,2,No
+ID_500,female,21,Maldives,S2,Instagram,4.6,No,22:23,05:47,8,berpasangan,2,No
+ID_600,laki-laki,21,UK,S2,Facebook,4.8,Yes,23:38,06:26,6,berpasangan,3,Yes
+ID_296,laki-laki,19,Sri Lanka,S1,TikTok,5.7,Yes,23:06,04:48,6,lajang,3,Yes
+ID_98,perempuan,19,UAE,S1,Instagram,6.8,Yes,22:25,04:37,5,berpasangan,4,Yes
+ID_597,male,22,Germany,S2,Facebook,3.1,No,22:43,07:07,8,berpasangan,1,No
+ID_450,L,19,Andorra,SMA,TikTok,5.3,Yes,21:19,02:49,5,berpasangan,4,Yes
+ID_220,laki-laki,22,Mexico,S2,WhatsApp,7.2,Yes,20:43,01:43,6,lajang,3,Yes
+ID_357,female,20,Switzerland,S1,Instagram,3.0,No,22:54,07:42,8,lajang,2,No
+ID_672,laki-laki,21,Canada,S2,Instagram,4.2,Yes,23:13,07:13,7,lajang,3,No
+ID_557,perempuan,20,Brazil,S1,Snapchat,5.8,Yes,22:56,04:56,6,berpasangan,2,Yes
+ID_249,P,20,Maldives,S1,Instagram,3.6,No,23:27,07:51,8,berpasangan,2,No
+ID_356,L,22,Russia,S2,VKontakte,4.6,No,21:45,05:15,7,berpasangan,2,No
+ID_457,female,19,India,S1,Instagram,7.0,Yes,21:39,03:27,4,lajang,5,Yes
+ID_651,L,22,China,S2,WeChat,4.0,No,23:15,07:33,7,berpasangan,2,No
+ID_599,laki-laki,18,Argentina,SMA,TikTok,5.5,Yes,21:17,02:35,5,lajang,4,Yes
+ID_26,laki-laki,23,Poland,S2,Facebook,6.4,Yes,20:56,03:14,5,lajang,4,Yes
+ID_328,laki-laki,22,Pakistan,S2,Instagram,4.7,Yes,22:20,04:38,5,berpasangan,3,Yes
+ID_481,female,19,Singapore,S1,TikTok,5.5,Yes,22:50,05:26,6,lajang,3,Yes
+ID_415,laki-laki,19,Iceland,S1,Instagram,4.6,Yes,23:06,05:00,6,hubungan rumit,3,Yes
+ID_303,laki-laki,20,Serbia,S1,YouTube,3.9,No,20:08,02:38,7,hubungan rumit,2,No
+ID_72,perempuan,20,USA,S1,TikTok,8.2,Yes,20:30,00:36,5,berpasangan,4,Yes
+ID_484,perempuan,20,Switzerland,S1,Instagram,3.4,No,23:38,08:02,8,lajang,2,No
+ID_487,P,20,Pakistan,S1,Instagram,4.2,Yes,22:13,05:37,5,berpasangan,4,Yes
+ID_153,male,20,USA,S1,Twitter,5.5,Yes,22:44,05:32,6,berpasangan,3,Yes
+ID_339,L,21,Maldives,S2,TikTok,5.2,Yes,22:29,03:59,6,berpasangan,4,Yes
+ID_443,male,24,Japan,S2,Twitter,4.3,No,20:41,04:11,8,lajang,2,No
+ID_579,L,21,Uruguay,S1,YouTube,3.8,No,22:47,05:11,7,lajang,2,No
+ID_362,perempuan,19,Spain,S1,Instagram,5.0,Yes,22:31,05:25,6,lajang,3,Yes
+ID_252,female,20,Singapore,S1,TikTok,5.6,Yes,22:39,05:09,6,lajang,3,Yes
+ID_676,female,20,France,S1,Instagram,4.0,No,23:14,07:14,7,berpasangan,2,No
+ID_573,female,19,Japan,S1,Twitter,4.2,No,21:09,04:39,8,lajang,2,No
+ID_96,perempuan,19,Ireland,S1,Instagram,4.4,Yes,21:12,04:42,7,lajang,3,No
+ID_269,perempuan,19,USA,S1,Instagram,7.9,Yes,23:51,04:15,5,berpasangan,4,Yes
+ID_86,L,22,Poland,S2,Facebook,4.0,No,23:24,07:30,7,lajang,2,No
+ID_12,perempuan,19,Switzerland,S1,Instagram,3.1,No,22:48,07:30,8,lajang,2,No
+ID_234,P,20,Sri Lanka,S1,Facebook,4.8,No,20:14,03:56,7,lajang,2,No
+ID_683,laki-laki,22,Germany,S2,Facebook,4.0,No,21:30,05:06,8,berpasangan,2,No
+ID_427,male,20,Sri Lanka,S1,TikTok,5.2,Yes,23:45,06:03,6,berpasangan,3,Yes
+ID_181,P,20,Japan,S1,Twitter,4.3,No,21:14,04:44,8,lajang,2,No
+ID_47,female,19,Bangladesh,S1,Instagram,4.4,Yes,23:25,06:49,5,lajang,3,Yes
+ID_540,P,20,South Korea,S1,KakaoTalk,4.7,Yes,22:40,05:46,6,berpasangan,3,No
+ID_15,male,24,Turkey,S2,TikTok,6.8,Yes,22:41,04:53,5,lajang,4,Yes
+ID_698,P,19,UAE,S1,Instagram,7.0,Yes,23:52,05:52,5,berpasangan,4,Yes
+ID_360,perempuan,23,UK,S2,TikTok,6.1,Yes,21:43,04:07,5,lajang,4,Yes
+ID_544,L,22,Turkey,S2,TikTok,3.8,Yes,20:43,05:07,6,lajang,3,Yes
+ID_679,male,22,Canada,S2,TikTok,4.8,Yes,22:55,06:19,6,lajang,3,Yes
+ID_256,P,19,France,S1,Instagram,4.7,No,21:46,04:58,7,berpasangan,2,No
+ID_525,L,19,Nepal,S1,Facebook,4.9,No,23:17,06:23,7,lajang,2,No
+ID_309,male,22,New Zealand,S2,Instagram,4.7,Yes,21:28,04:58,7,berpasangan,3,No
+ID_697,laki-laki,21,Nepal,S1,YouTube,3.8,No,23:49,06:25,7,lajang,2,No
+ID_142,female,19,Russia,S1,Instagram,6.8,Yes,23:32,05:26,4,lajang,5,Yes
+ID_388,perempuan,22,Russia,S2,Instagram,6.8,Yes,23:09,05:03,4,lajang,5,Yes
+ID_640,female,20,Maldives,S1,Instagram,4.0,No,21:07,05:07,8,berpasangan,2,No
+ID_647,P,19,Singapore,S1,TikTok,5.7,Yes,23:41,06:05,6,lajang,3,Yes
+ID_193,P,20,Ireland,S1,TikTok,4.5,Yes,20:46,04:10,7,lajang,3,No
+ID_157,female,19,Spain,S1,Instagram,3.8,Yes,22:22,06:28,6,lajang,3,Yes
+ID_211,laki-laki,21,New Zealand,S2,Facebook,4.4,Yes,20:55,04:43,7,berpasangan,3,No
+ID_417,male,22,Bangladesh,S2,Facebook,4.7,Yes,20:38,03:32,5,lajang,4,Yes
+ID_480,perempuan,20,South Korea,S1,KakaoTalk,5.0,Yes,20:48,03:30,6,berpasangan,3,No
+ID_395,P,19,Ireland,SMA,Instagram,6.1,Yes,21:12,02:24,5,hubungan rumit,4,Yes
+ID_449,perempuan,19,Norway,SMA,Instagram,5.0,Yes,23:16,04:58,5,berpasangan,3,Yes
+ID_329,perempuan,19,Japan,S1,LINE,3.4,No,23:44,07:56,8,lajang,1,No
+ID_55,P,19,Sri Lanka,S1,Facebook,4.9,No,23:11,06:41,7,lajang,2,No
+ID_24,female,19,Sri Lanka,S1,Facebook,5.1,No,21:43,04:43,7,lajang,2,No
+ID_162,L,21,India,S2,WhatsApp,6.1,Yes,23:51,06:03,5,berpasangan,4,Yes
+ID_58,male,23,Switzerland,S2,Facebook,4.5,No,20:17,03:35,7,berpasangan,2,No
+ID_204,female,20,South Korea,S1,KakaoTalk,5.0,Yes,20:16,03:04,6,lajang,3,No
+ID_401,L,20,Bangladesh,S1,Instagram,6.1,Yes,23:53,06:05,5,lajang,4,Yes
+ID_611,female,24,Switzerland,S2,Facebook,4.6,No,21:30,04:42,7,berpasangan,2,No
+ID_562,L,21,UK,S2,Instagram,4.9,Yes,22:34,05:16,6,lajang,3,Yes
+ID_442,laki-laki,22,Bangladesh,S2,Facebook,5.1,Yes,20:36,03:06,5,lajang,4,Yes
+ID_146,male,21,Bangladesh,S2,Facebook,6.0,Yes,21:25,03:13,5,berpasangan,4,Yes
+ID_667,female,21,Turkey,S1,Instagram,6.7,Yes,21:26,03:26,5,lajang,4,Yes
+ID_378,L,22,Venezuela,S2,Facebook,3.3,No,23:38,06:20,7,berpasangan,2,No
+ID_645,P,20,USA,S1,TikTok,8.0,Yes,20:42,01:00,5,berpasangan,4,Yes
+ID_280,L,21,Denmark,S2,Facebook,3.2,No,21:35,06:11,8,berpasangan,2,No
+ID_537,perempuan,19,Canada,S1,Instagram,5.7,Yes,22:14,04:50,6,lajang,3,Yes
+ID_42,female,19,USA,S1,Instagram,7.7,Yes,22:35,03:11,5,berpasangan,4,Yes
+ID_36,male,22,Germany,S2,Facebook,4.2,No,23:16,07:04,7,berpasangan,2,No
+ID_200,female,20,Canada,S1,Instagram,5.6,Yes,23:31,06:13,6,lajang,3,Yes
+ID_490,P,19,Ireland,S1,Instagram,3.4,Yes,20:42,05:12,7,lajang,3,No
+ID_23,female,19,France,S1,Instagram,3.7,No,23:35,07:53,7,berpasangan,2,No
+ID_176,laki-laki,19,Bangladesh,S1,TikTok,4.5,Yes,20:39,03:45,5,lajang,4,Yes
+ID_102,P,20,Bhutan,SMA,Snapchat,5.5,Yes,21:26,02:56,5,hubungan rumit,4,Yes
+ID_590,laki-laki,22,Bangladesh,S2,Facebook,4.3,Yes,22:23,05:41,5,lajang,4,Yes
+ID_447,male,19,China,S1,WeChat,5.6,Yes,22:05,04:53,6,berpasangan,3,Yes
+ID_155,P,23,USA,S2,Twitter,5.3,Yes,22:43,05:31,6,berpasangan,3,Yes
+ID_353,P,21,UK,S1,TikTok,6.3,Yes,20:46,03:10,5,lajang,4,Yes
+ID_257,perempuan,22,Italy,S2,Twitter,5.1,No,22:51,05:57,7,berpasangan,2,No
+ID_459,P,20,Australia,S1,Facebook,4.8,No,21:40,04:52,7,berpasangan,2,No
+ID_488,P,19,Slovenia,SMA,TikTok,5.7,Yes,21:30,02:54,5,berpasangan,4,Yes
+ID_289,male,22,Malaysia,S2,WhatsApp,5.6,Yes,21:05,03:47,6,lajang,3,Yes
+ID_69,P,19,Netherlands,S1,TikTok,3.7,No,20:43,05:01,8,lajang,2,No
+ID_205,laki-laki,22,Turkey,S2,TikTok,4.4,Yes,22:23,06:11,6,lajang,3,Yes
+ID_287,male,22,Turkey,S2,TikTok,5.4,Yes,23:49,06:37,6,lajang,3,Yes
+ID_549,laki-laki,22,Israel,S2,Facebook,3.1,No,21:34,04:22,7,lajang,1,No
+ID_117,L,21,UK,S2,Instagram,5.3,Yes,23:06,05:24,6,lajang,3,Yes
+ID_693,female,19,Ireland,S1,Instagram,4.8,Yes,21:29,04:35,7,lajang,3,No
+ID_539,P,20,USA,S1,TikTok,7.2,Yes,23:06,04:12,5,berpasangan,4,Yes
+ID_367,perempuan,19,Ireland,S1,TikTok,5.5,Yes,23:03,05:51,6,lajang,4,Yes
+ID_624,P,19,Nigeria,SMA,Instagram,5.8,Yes,22:27,03:51,5,hubungan rumit,4,Yes
+ID_396,L,22,UK,S2,Twitter,6.2,Yes,21:36,03:54,5,lajang,4,Yes
+ID_585,perempuan,20,India,S1,WhatsApp,6.9,Yes,23:24,05:18,5,berpasangan,4,Yes
+ID_184,perempuan,21,USA,S1,Twitter,5.3,Yes,22:27,05:15,6,berpasangan,3,Yes
+ID_340,perempuan,19,Japan,S1,LINE,3.6,No,23:16,07:22,8,lajang,1,No
+ID_348,P,20,Australia,S1,Instagram,4.4,No,23:00,06:24,7,lajang,2,No
+ID_22,male,21,Denmark,S2,Facebook,4.1,No,23:02,06:50,8,berpasangan,2,No
+ID_403,laki-laki,22,Germany,S2,Instagram,3.8,No,22:59,06:41,8,lajang,1,No
+ID_226,L,22,Canada,S2,TikTok,4.6,Yes,22:09,05:45,6,lajang,3,Yes
+ID_595,P,19,Ireland,S1,Instagram,3.8,Yes,22:07,06:13,7,lajang,3,No
+ID_615,P,22,China,S2,WeChat,5.7,Yes,20:57,03:39,6,berpasangan,3,Yes
+ID_438,female,19,Switzerland,S1,Instagram,2.9,No,20:17,05:11,8,lajang,2,No
+ID_206,P,20,USA,S1,Instagram,5.9,Yes,21:17,03:59,6,berpasangan,3,Yes
+ID_34,male,23,Russia,S2,Instagram,6.8,Yes,21:57,03:51,4,lajang,5,Yes
+ID_643,laki-laki,22,Ireland,S2,Instagram,5.8,Yes,22:11,04:47,6,lajang,3,Yes
+ID_286,P,19,Switzerland,S1,Instagram,3.7,No,22:10,06:16,8,lajang,2,No
+ID_277,male,21,India,S1,Facebook,7.1,Yes,20:45,02:27,4,lajang,5,Yes
+ID_103,L,21,Turkey,S2,Instagram,4.7,Yes,23:33,07:03,6,lajang,3,Yes
+ID_575,female,22,India,S2,Instagram,5.8,Yes,20:18,02:06,6,berpasangan,3,Yes
+ID_192,L,21,Turkey,S2,Instagram,5.1,Yes,20:11,03:17,6,lajang,3,Yes
+ID_504,laki-laki,22,India,S2,WhatsApp,7.0,Yes,21:55,03:13,5,berpasangan,4,Yes
+ID_602,male,21,India,S2,WhatsApp,7.3,Yes,22:55,03:55,5,berpasangan,4,Yes
+ID_139,female,20,Bangladesh,S1,Instagram,4.3,Yes,20:41,04:17,5,lajang,3,Yes
+ID_241,male,24,Malaysia,S2,LinkedIn,2.2,No,22:58,06:22,8,lajang,0,No
+ID_456,laki-laki,24,South Africa,S2,LinkedIn,2.3,No,20:14,03:32,8,berpasangan,1,No
+ID_594,laki-laki,22,Denmark,S2,Facebook,3.1,No,22:18,07:00,8,berpasangan,2,No
+ID_8,male,23,Sri Lanka,S2,LinkedIn,2.6,No,20:54,04:06,8,berpasangan,1,No
+ID_16,L,21,Mexico,S2,WhatsApp,5.9,Yes,20:37,02:55,6,lajang,3,Yes
+ID_325,female,19,India,S1,TikTok,7.0,Yes,21:51,03:39,4,lajang,5,Yes
+ID_28,male,18,UK,SMA,YouTube,3.0,No,22:48,05:48,7,lajang,1,No
+ID_294,L,21,Panama,S1,Facebook,3.6,No,20:27,02:57,7,berpasangan,2,No
+ID_495,female,19,France,S1,Instagram,3.5,No,23:58,08:28,7,berpasangan,2,No
+ID_111,P,18,Mexico,SMA,Instagram,6.5,Yes,20:58,02:28,5,lajang,4,Yes
+ID_366,P,19,Ireland,S1,Instagram,4.2,Yes,23:28,07:10,7,lajang,3,No
+ID_563,male,23,Bosnia,S2,LinkedIn,2.4,No,21:24,04:48,8,hubungan rumit,1,No
+ID_471,laki-laki,22,Poland,S2,TikTok,6.3,Yes,22:19,04:31,5,lajang,4,Yes
+ID_622,P,20,Poland,S1,Facebook,6.1,Yes,22:14,04:38,5,lajang,4,Yes
+ID_93,L,21,India,S2,WhatsApp,6.3,Yes,21:32,03:32,5,berpasangan,4,Yes
+ID_538,female,20,Estonia,S1,Instagram,4.5,Yes,22:12,04:06,6,hubungan rumit,3,Yes
+ID_119,perempuan,19,Spain,S1,Instagram,4.0,Yes,23:15,07:09,6,lajang,3,Yes
+ID_674,laki-laki,21,UK,S2,Facebook,5.6,Yes,22:59,05:35,6,berpasangan,3,Yes
+ID_390,female,19,Bangladesh,S1,Instagram,4.6,Yes,23:41,06:41,5,lajang,3,Yes
+ID_696,female,19,Switzerland,S1,Instagram,4.0,No,20:56,04:50,8,lajang,2,No
+ID_552,P,19,Japan,S1,LINE,3.1,No,22:16,06:46,8,lajang,1,No
+ID_238,L,24,Italy,S2,Facebook,4.9,No,20:21,03:39,7,berpasangan,2,No
+ID_56,L,21,Maldives,S2,TikTok,5.4,Yes,23:03,05:03,6,berpasangan,4,Yes
+ID_164,P,21,Pakistan,S2,Instagram,4.4,Yes,23:58,07:10,5,berpasangan,4,Yes
+ID_619,female,20,Netherlands,S1,Instagram,3.4,No,20:00,04:36,8,lajang,2,No
+ID_14,P,20,Turkey,S1,Instagram,6.6,Yes,20:41,02:47,5,lajang,4,Yes
+ID_54,female,19,Sri Lanka,S1,Facebook,4.7,No,20:22,04:16,7,lajang,2,No
+ID_197,perempuan,21,Maldives,S2,Instagram,3.8,No,20:08,04:20,8,berpasangan,2,No
+ID_125,L,22,India,S2,WhatsApp,7.2,Yes,20:49,01:55,5,berpasangan,4,Yes
+ID_13,laki-laki,22,Mexico,S2,WhatsApp,7.0,Yes,22:24,03:36,6,lajang,3,Yes
+ID_341,female,19,Australia,S1,Instagram,7.2,Yes,20:25,00:55,4,hubungan rumit,5,Yes
+ID_653,perempuan,19,USA,S1,Instagram,6.8,Yes,20:41,02:35,4,lajang,4,Yes
+ID_498,female,21,Finland,S1,Instagram,4.1,No,21:25,05:07,7,berpasangan,2,No
+ID_20,perempuan,19,Singapore,S1,TikTok,5.1,Yes,22:13,05:13,6,lajang,3,Yes
+ID_373,laki-laki,22,Germany,S2,Instagram,3.9,No,22:43,06:31,8,lajang,1,No
+ID_264,L,21,Pakistan,S2,Instagram,4.0,Yes,22:34,06:16,5,berpasangan,3,Yes
+ID_159,female,20,Nepal,S1,TikTok,5.7,Yes,22:20,03:56,6,lajang,4,Yes
+ID_129,laki-laki,21,Mexico,S2,WhatsApp,6.5,Yes,22:08,03:50,6,lajang,3,Yes
+ID_690,P,20,Sri Lanka,S1,Facebook,4.2,No,22:17,07:11,7,lajang,2,No
+ID_631,perempuan,22,Pakistan,S2,Instagram,5.5,Yes,22:27,04:27,5,lajang,4,Yes
+ID_657,L,22,Mexico,S2,WhatsApp,6.0,Yes,22:05,04:17,6,lajang,3,Yes
+ID_149,female,23,Italy,S2,Twitter,4.8,No,23:24,06:30,7,berpasangan,2,No
+ID_182,male,20,Yemen,S1,Facebook,4.7,Yes,23:43,05:31,6,berpasangan,3,Yes
+ID_497,male,21,Italy,S2,Instagram,5.3,Yes,22:17,05:05,5,lajang,3,Yes
+ID_333,P,23,Switzerland,S2,Instagram,4.4,No,23:05,06:29,7,berpasangan,2,No
+ID_596,L,22,Canada,S2,TikTok,3.6,Yes,23:20,07:56,6,lajang,3,Yes
+ID_702,female,19,USA,S1,TikTok,6.9,Yes,21:06,02:48,4,berpasangan,4,Yes
+ID_470,L,19,France,S1,Instagram,4.7,No,23:22,06:34,7,berpasangan,2,No
+ID_680,male,23,Belarus,S2,LinkedIn,2.5,No,22:18,05:36,8,berpasangan,1,No
+ID_586,female,20,Brazil,S1,TikTok,5.7,Yes,22:11,04:59,6,lajang,3,Yes
+ID_432,laki-laki,21,Turkey,S2,Instagram,5.5,Yes,23:13,05:55,6,lajang,3,Yes
+ID_144,female,20,Australia,S1,Facebook,4.4,No,21:45,05:09,7,berpasangan,2,No
+ID_491,female,19,USA,S1,Instagram,7.1,Yes,20:37,01:37,4,lajang,4,Yes
+ID_678,laki-laki,21,India,S2,Facebook,4.9,No,22:27,06:15,7,berpasangan,2,No
+ID_648,male,21,New Zealand,S2,Facebook,4.2,Yes,23:29,07:29,7,berpasangan,3,No
+ID_558,laki-laki,19,Nepal,S1,TikTok,4.3,No,20:08,03:50,7,lajang,2,No
+ID_228,P,19,India,S1,WhatsApp,6.8,Yes,22:44,04:44,5,berpasangan,4,Yes
+ID_274,perempuan,23,Iraq,S2,LinkedIn,2.5,No,21:58,05:16,8,lajang,1,No
+ID_151,P,20,Philippines,S1,Snapchat,4.8,Yes,20:43,02:25,6,berpasangan,3,Yes
+ID_198,female,19,USA,S1,TikTok,7.0,Yes,20:10,01:58,4,berpasangan,4,Yes
+ID_503,L,21,UK,S1,Facebook,6.2,Yes,21:58,04:16,5,lajang,4,Yes
+ID_627,male,21,Turkey,S2,Instagram,5.3,Yes,20:32,03:26,6,lajang,3,Yes
+ID_351,P,19,India,S1,WhatsApp,7.4,Yes,20:32,01:56,5,berpasangan,4,Yes
+ID_517,P,20,Bangladesh,S1,Instagram,4.7,Yes,22:26,05:14,5,lajang,3,Yes
+ID_467,perempuan,19,Ireland,S1,Instagram,3.2,Yes,20:31,05:13,7,lajang,3,No
+ID_283,P,19,Switzerland,S1,Instagram,3.5,No,20:50,05:08,8,lajang,2,No
+ID_284,L,21,Mexico,S2,WhatsApp,6.1,Yes,23:43,05:49,6,lajang,3,Yes
+ID_212,female,18,Czech Republic,SMA,Snapchat,6.1,Yes,20:19,01:31,4,lajang,4,Yes
+ID_359,male,22,Pakistan,S2,Instagram,4.3,Yes,23:51,06:57,5,berpasangan,3,Yes
+ID_618,L,22,Poland,S2,Facebook,3.8,No,21:47,06:05,7,lajang,2,No
+ID_110,female,20,USA,S1,TikTok,6.0,Yes,21:23,02:23,5,hubungan rumit,4,Yes
+ID_670,female,20,Spain,S1,TikTok,4.9,Yes,21:19,04:19,6,lajang,3,Yes
+ID_641,P,23,Finland,S2,Instagram,4.4,No,23:17,06:41,7,berpasangan,2,No
+ID_94,perempuan,19,Japan,S1,Twitter,4.5,No,21:47,05:23,8,lajang,2,No
+ID_108,P,20,Spain,S1,TikTok,4.1,Yes,22:48,06:36,6,lajang,3,Yes
+ID_591,L,22,Canada,S2,TikTok,4.2,Yes,20:28,04:28,6,lajang,3,Yes
+ID_422,laki-laki,19,Russia,S1,Instagram,6.7,Yes,20:39,02:39,4,lajang,4,Yes
+ID_513,L,21,Italy,S2,TikTok,5.2,Yes,22:45,05:39,5,berpasangan,3,Yes
+ID_250,L,20,Spain,S1,Facebook,6.5,Yes,20:26,02:38,5,lajang,4,Yes
+ID_177,male,21,Canada,S2,Instagram,3.9,Yes,22:31,06:49,6,lajang,3,Yes
+ID_686,perempuan,19,Japan,S1,LINE,3.0,No,22:45,07:21,8,lajang,1,No
+ID_458,perempuan,20,USA,S1,TikTok,7.4,Yes,22:13,03:07,5,berpasangan,4,Yes
+ID_167,perempuan,20,Pakistan,S1,Instagram,5.0,Yes,20:53,03:29,5,berpasangan,4,Yes
+ID_387,male,22,Maldives,S2,TikTok,5.3,Yes,20:42,02:24,6,berpasangan,4,Yes
+ID_460,male,22,Russia,S2,VKontakte,4.0,No,23:17,07:17,7,lajang,2,No
+ID_529,L,20,Oman,S1,Instagram,4.6,Yes,23:10,05:04,6,lajang,3,Yes
+ID_45,perempuan,19,France,S1,Instagram,3.1,No,23:48,08:42,7,berpasangan,2,No
+ID_44,male,22,China,S2,WeChat,5.6,Yes,23:00,05:42,6,berpasangan,3,Yes
+ID_223,perempuan,19,USA,S1,TikTok,6.8,Yes,21:50,03:08,4,berpasangan,4,Yes
+ID_21,L,22,Russia,S2,VKontakte,4.2,No,20:13,04:01,7,lajang,2,No
+ID_143,male,20,Denmark,S1,Twitter,4.5,No,20:05,03:23,7,berpasangan,2,No
+ID_405,L,21,Mexico,S2,WhatsApp,6.7,Yes,20:59,02:29,6,lajang,3,Yes
+ID_369,perempuan,20,Netherlands,S1,Snapchat,4.7,Yes,20:01,01:55,6,hubungan rumit,3,Yes
+ID_237,laki-laki,21,Turkey,S2,Instagram,4.3,Yes,22:01,05:55,6,lajang,3,Yes
+ID_426,female,19,Poland,S1,Facebook,6.2,Yes,20:42,03:00,5,lajang,4,Yes
+ID_312,male,21,Pakistan,S2,Instagram,3.8,Yes,22:38,06:44,5,berpasangan,3,Yes
+ID_17,laki-laki,21,Italy,S2,TikTok,5.1,Yes,23:22,06:22,5,berpasangan,3,Yes
+ID_308,L,22,Mexico,S2,WhatsApp,5.8,Yes,23:27,05:51,6,lajang,3,Yes
+ID_338,P,20,Switzerland,S1,Instagram,2.2,No,21:18,06:54,8,lajang,2,No
+ID_262,female,21,Italy,S1,TikTok,4.8,No,22:26,05:32,7,berpasangan,2,No
+ID_510,male,18,Japan,SMA,TikTok,4.0,No,23:36,06:06,7,lajang,1,No
+ID_255,laki-laki,22,India,S2,WhatsApp,7.4,Yes,20:44,01:38,5,berpasangan,4,Yes
+ID_545,P,19,Switzerland,S1,Instagram,2.5,No,21:07,06:25,8,lajang,2,No
+ID_514,male,21,Italy,S2,Instagram,5.2,Yes,23:59,06:53,5,lajang,3,Yes
+ID_614,L,21,Canada,S2,Instagram,5.1,Yes,20:21,03:27,6,lajang,3,Yes
+ID_345,L,22,India,S2,Twitter,2.1,No,22:25,05:55,8,lajang,0,No
+ID_1,perempuan,20,Australia,S1,Facebook,4.7,No,23:00,06:24,7,berpasangan,2,No
+ID_64,L,22,Greece,S2,Facebook,3.2,No,21:16,04:10,7,berpasangan,2,No
+ID_400,L,21,Canada,S2,Instagram,4.7,Yes,20:57,04:27,6,lajang,3,Yes
+ID_346,perempuan,20,Sri Lanka,S1,Facebook,4.4,No,22:18,06:48,7,lajang,2,No
+ID_194,perempuan,20,Netherlands,S1,Instagram,3.8,No,22:58,07:10,8,lajang,2,No
+ID_516,laki-laki,21,Switzerland,S1,Facebook,4.5,No,20:08,03:26,7,berpasangan,2,No
+ID_147,P,20,Australia,S1,Instagram,4.5,No,21:57,05:15,7,lajang,2,No
+ID_440,L,21,UK,S2,Instagram,5.1,Yes,22:01,04:31,6,lajang,3,Yes
+ID_169,P,20,Brazil,S1,TikTok,5.9,Yes,22:16,04:52,6,lajang,3,Yes
+ID_435,P,19,France,S1,Instagram,4.3,No,22:53,06:35,7,berpasangan,2,No
+ID_402,L,22,Canada,S2,TikTok,5.0,Yes,21:31,04:43,6,lajang,3,Yes
+ID_358,perempuan,20,Australia,S1,Facebook,4.3,No,20:59,04:29,7,berpasangan,2,No
+ID_518,P,23,Taiwan,S2,LinkedIn,2.6,No,21:45,04:57,8,lajang,1,No
+ID_330,male,22,Malaysia,S2,WhatsApp,6.0,Yes,23:12,05:30,6,lajang,3,Yes
+ID_161,laki-laki,19,Bangladesh,S1,TikTok,5.3,Yes,20:46,03:04,5,lajang,4,Yes
+ID_629,P,19,USA,S1,Instagram,6.4,Yes,23:21,05:03,4,lajang,4,Yes
+ID_404,laki-laki,21,Canada,S2,Instagram,3.7,Yes,22:00,06:30,6,lajang,3,Yes
+ID_336,L,22,Russia,S2,VKontakte,4.1,No,22:33,06:27,7,berpasangan,2,No
+ID_344,male,20,Hungary,S1,TikTok,4.2,Yes,20:32,02:32,6,hubungan rumit,3,Yes
+ID_625,female,19,Switzerland,S1,Instagram,2.7,No,22:20,07:26,8,lajang,2,No
+ID_646,P,20,Switzerland,S1,Instagram,3.2,No,22:04,06:40,8,lajang,2,No
+ID_636,perempuan,19,France,S1,Instagram,2.9,No,21:23,06:29,7,berpasangan,2,No
+ID_623,P,20,Switzerland,S1,Instagram,2.8,No,20:13,05:13,8,lajang,2,No
+ID_0,male,22,Mexico,S2,WhatsApp,6.6,Yes,21:22,02:58,6,lajang,3,Yes
+ID_655,perempuan,20,Ireland,S1,TikTok,3.3,Yes,20:11,04:47,7,lajang,3,No
+ID_564,male,21,Canada,S1,Instagram,5.7,Yes,22:42,05:24,6,lajang,3,Yes
+ID_342,laki-laki,21,Turkey,S1,Instagram,6.8,Yes,21:02,03:02,5,lajang,4,Yes
+ID_374,laki-laki,22,Germany,S2,Instagram,3.2,No,20:35,04:53,8,lajang,1,No
+ID_41,female,19,USA,S1,Instagram,6.9,Yes,23:44,04:56,4,lajang,4,Yes
+ID_259,L,22,Russia,S2,VKontakte,4.8,No,22:58,06:10,7,lajang,2,No
+ID_168,L,22,Canada,S2,TikTok,4.5,Yes,23:04,06:46,7,lajang,3,No
+ID_179,male,20,Turkey,S1,TikTok,6.6,Yes,23:25,05:37,5,lajang,4,Yes
+ID_160,laki-laki,21,Egypt,S1,YouTube,3.9,No,23:50,06:20,7,hubungan rumit,2,No
+ID_261,L,21,India,S2,Facebook,5.1,No,23:40,07:04,7,berpasangan,2,No
+ID_392,L,22,Mexico,S2,WhatsApp,5.6,Yes,20:01,02:37,6,lajang,3,Yes
+ID_465,laki-laki,21,India,S2,WhatsApp,6.9,Yes,22:17,03:41,5,berpasangan,4,Yes
+ID_4,female,21,South Korea,S2,Instagram,3.3,No,21:40,04:40,7,berpasangan,1,No
+ID_617,female,20,Finland,S1,Instagram,4.4,No,20:18,03:42,7,berpasangan,2,No
+ID_99,male,24,China,S2,WeChat,5.5,Yes,23:03,05:51,6,berpasangan,3,Yes
+ID_375,female,20,Netherlands,S1,Instagram,3.6,No,22:59,07:23,8,lajang,2,No
+ID_266,P,19,Nepal,S1,TikTok,5.6,Yes,23:14,05:02,6,lajang,4,Yes
+ID_568,perempuan,20,South Korea,S1,KakaoTalk,5.2,Yes,23:07,05:37,6,berpasangan,3,No
+ID_297,perempuan,19,Denmark,S1,Twitter,4.6,No,21:12,04:30,7,berpasangan,2,No
+ID_229,P,20,Nepal,S1,TikTok,5.9,Yes,21:17,02:29,6,lajang,4,Yes
+ID_577,L,23,Switzerland,S2,Facebook,4.3,No,23:22,06:52,7,berpasangan,2,No
+ID_74,female,22,Ireland,S2,Instagram,5.9,Yes,22:20,04:50,6,lajang,3,Yes
+ID_520,L,22,Mexico,S2,Facebook,6.5,Yes,20:01,02:07,5,lajang,4,Yes
+ID_644,perempuan,19,India,S1,WhatsApp,7.0,Yes,23:11,04:59,5,berpasangan,4,Yes
+ID_377,female,19,Mexico,S1,TikTok,6.4,Yes,21:51,04:03,5,lajang,4,Yes
+ID_186,female,19,Ecuador,SMA,Instagram,6.3,Yes,20:39,01:51,5,hubungan rumit,4,Yes
+ID_79,L,22,Mexico,S2,WhatsApp,6.8,Yes,21:26,02:50,6,lajang,3,Yes
+ID_50,female,19,Pakistan,S1,TikTok,4.8,Yes,21:14,02:56,6,berpasangan,3,Yes
+ID_178,perempuan,20,South Korea,S1,KakaoTalk,4.5,Yes,20:52,04:10,6,berpasangan,3,No
+ID_429,female,20,Netherlands,S1,Instagram,3.2,No,23:04,07:52,8,lajang,2,No
+ID_307,male,22,Nepal,S2,Facebook,4.1,No,22:58,06:52,7,lajang,2,No
+ID_244,P,20,Paraguay,S1,TikTok,4.7,Yes,20:17,02:05,6,berpasangan,3,Yes
+ID_398,perempuan,20,USA,S1,TikTok,7.0,Yes,22:23,03:41,5,berpasangan,4,Yes
+ID_475,L,21,Italy,S2,TikTok,5.3,Yes,23:15,06:03,5,berpasangan,3,Yes
+ID_397,laki-laki,22,Turkey,S2,TikTok,5.2,Yes,23:47,06:47,6,lajang,3,Yes
+ID_279,perempuan,19,Singapore,S1,TikTok,5.3,Yes,20:30,03:18,6,lajang,3,Yes
+ID_285,female,21,India,S2,Instagram,4.8,Yes,23:03,03:51,6,berpasangan,3,Yes
+ID_589,perempuan,20,Denmark,S1,Instagram,4.4,No,23:06,06:30,7,berpasangan,2,No
+ID_685,perempuan,20,Nepal,S1,TikTok,6.1,Yes,20:45,01:33,6,lajang,4,Yes
+ID_65,female,23,San Marino,S2,LinkedIn,2.6,No,21:44,05:02,8,lajang,1,No
+ID_291,female,19,Japan,S1,LINE,3.2,No,20:49,05:13,8,lajang,1,No
+ID_364,male,22,Maldives,S2,TikTok,4.7,Yes,23:38,04:08,6,berpasangan,4,Yes
+ID_258,L,21,Poland,S2,Facebook,4.1,No,22:02,06:02,7,lajang,2,No
+ID_613,laki-laki,22,India,S2,Facebook,5.0,No,23:38,07:14,7,berpasangan,2,No
+ID_313,male,21,Mexico,S2,WhatsApp,5.7,Yes,23:07,05:37,6,lajang,3,Yes
+ID_138,male,21,Japan,S1,Twitter,4.3,No,20:20,03:56,8,lajang,2,No
+ID_221,female,20,Sri Lanka,S1,Facebook,5.0,No,23:39,06:57,7,lajang,2,No
+ID_446,perempuan,20,India,S1,WhatsApp,7.1,Yes,20:00,01:42,5,berpasangan,4,Yes
+ID_673,female,23,Switzerland,S2,LinkedIn,2.5,No,21:02,04:20,8,berpasangan,1,No
+ID_57,female,20,India,S1,Instagram,4.6,Yes,21:41,02:17,6,berpasangan,3,Yes
+ID_609,L,22,Pakistan,S2,Instagram,4.1,Yes,21:57,05:27,5,berpasangan,3,Yes
+ID_33,L,21,Denmark,S2,Facebook,3.4,No,20:47,05:11,8,berpasangan,2,No
+ID_145,perempuan,20,Morocco,S1,TikTok,4.5,Yes,21:37,03:25,6,lajang,3,Yes
+ID_156,perempuan,20,Brazil,S1,Instagram,6.1,Yes,21:09,03:33,6,lajang,3,Yes
+ID_213,male,20,Finland,S1,Facebook,4.5,No,23:42,07:06,7,berpasangan,2,No
+ID_576,perempuan,19,Ireland,S1,Instagram,4.0,Yes,23:54,07:48,7,lajang,3,No
+ID_485,male,22,Turkey,S2,TikTok,5.0,Yes,21:30,04:42,6,lajang,3,Yes
+ID_502,laki-laki,22,Denmark,S2,Facebook,2.9,No,21:00,05:54,8,berpasangan,2,No
+ID_59,P,21,Russia,S1,Instagram,6.7,Yes,21:14,03:14,4,lajang,5,Yes
+ID_90,female,23,Canada,S2,TikTok,4.9,No,20:38,03:56,7,berpasangan,2,No
+ID_87,perempuan,20,South Korea,S1,KakaoTalk,4.6,Yes,20:29,03:41,6,lajang,3,No
+ID_515,L,21,Italy,S2,Instagram,5.5,Yes,20:11,02:59,6,lajang,3,Yes
+ID_527,L,22,Sri Lanka,S2,Facebook,4.7,Yes,22:27,03:09,6,lajang,3,Yes
+ID_452,P,19,Brazil,S1,WhatsApp,6.2,Yes,22:25,04:43,6,lajang,3,Yes
+ID_209,perempuan,20,Moldova,S1,Instagram,5.8,Yes,21:21,02:39,5,lajang,4,Yes
+ID_18,female,19,Spain,S1,Instagram,3.6,Yes,20:30,04:48,6,lajang,3,Yes
+ID_137,male,22,Denmark,S2,Facebook,3.7,No,23:35,07:41,8,berpasangan,2,No
+ID_462,male,22,France,S2,Facebook,4.7,No,20:32,03:44,7,berpasangan,2,No
+ID_6,male,21,UK,S2,Instagram,5.5,Yes,23:21,06:03,6,lajang,3,Yes
+ID_134,male,22,Russia,S2,VKontakte,4.7,No,23:28,06:46,7,lajang,2,No
+ID_326,P,19,USA,S1,Instagram,8.3,Yes,22:15,02:15,5,berpasangan,4,Yes
+ID_584,P,19,Nepal,S1,TikTok,6.0,Yes,22:56,03:56,6,lajang,4,Yes
+ID_189,perempuan,20,Jamaica,S1,Snapchat,4.9,Yes,20:52,02:28,6,hubungan rumit,3,Yes
+ID_88,male,23,Finland,S2,Instagram,4.3,No,21:23,04:53,7,berpasangan,2,No
+ID_601,female,19,USA,S1,Instagram,8.5,Yes,20:25,00:13,5,berpasangan,4,Yes
+ID_583,L,22,Canada,S2,TikTok,4.7,Yes,21:09,04:39,7,lajang,3,No
+ID_245,female,20,Australia,S1,Instagram,4.6,No,21:09,04:27,7,lajang,2,No
+ID_380,laki-laki,21,Pakistan,S2,Instagram,4.6,Yes,20:08,02:38,5,berpasangan,3,Yes
+ID_53,perempuan,20,Bangladesh,S1,Instagram,4.1,Yes,21:52,05:52,5,lajang,3,Yes
+ID_128,L,22,Nepal,S2,TikTok,4.7,No,22:03,05:21,7,lajang,2,No
+ID_158,perempuan,20,Pakistan,S1,Instagram,4.6,Yes,23:03,06:03,5,berpasangan,4,Yes
+ID_649,male,21,Turkey,S2,Instagram,4.5,Yes,20:12,03:54,6,lajang,3,Yes
+ID_656,laki-laki,22,Canada,S2,TikTok,4.3,Yes,21:02,04:56,7,lajang,3,No
+ID_173,perempuan,19,Costa Rica,SMA,Instagram,5.7,Yes,23:21,04:51,5,lajang,4,Yes
+ID_551,L,23,Canada,S2,TikTok,5.7,Yes,20:17,02:53,6,lajang,3,Yes
+ID_270,perempuan,20,Australia,S1,Facebook,4.0,No,21:04,04:52,7,berpasangan,2,No
+ID_61,L,21,Malaysia,S2,WhatsApp,5.5,Yes,22:17,05:05,6,lajang,3,Yes
+ID_668,L,22,Sri Lanka,S2,Facebook,5.1,Yes,21:44,02:50,6,lajang,3,Yes
+ID_233,laki-laki,20,Vatican City,S1,YouTube,4.4,Yes,23:02,05:02,6,hubungan rumit,3,Yes
+ID_592,female,19,Ireland,S1,Instagram,4.6,Yes,22:40,05:58,7,lajang,3,No
+ID_127,perempuan,21,Pakistan,S2,Instagram,5.2,Yes,22:33,04:57,5,berpasangan,4,Yes
+ID_334,perempuan,21,Pakistan,S2,Instagram,4.8,Yes,22:52,05:40,5,berpasangan,4,Yes
+ID_469,male,22,Russia,S2,VKontakte,3.8,No,23:18,07:30,7,lajang,2,No
+ID_677,female,20,Kosovo,SMA,Instagram,5.5,Yes,22:15,03:39,5,berpasangan,4,Yes
+ID_235,L,22,New Zealand,S2,Facebook,4.5,Yes,22:25,06:07,7,berpasangan,3,No
+ID_682,female,19,Bangladesh,S1,Instagram,5.2,Yes,20:26,02:56,6,berpasangan,3,Yes
+ID_695,P,19,France,S1,Instagram,4.1,No,20:25,04:19,7,berpasangan,2,No
+ID_272,female,20,Singapore,S1,TikTok,5.2,Yes,23:49,06:43,6,lajang,3,Yes
+ID_578,P,22,Denmark,S2,Twitter,4.6,No,20:44,04:02,7,berpasangan,2,No
+ID_352,laki-laki,23,Germany,S2,LinkedIn,1.5,No,23:06,07:06,9,lajang,0,No
+ID_236,laki-laki,22,Nepal,S2,Facebook,3.7,No,20:48,05:06,7,lajang,2,No
+ID_120,laki-laki,22,Turkey,S2,TikTok,4.2,Yes,20:41,04:41,6,lajang,3,Yes
+ID_304,L,22,India,S2,WhatsApp,5.8,Yes,23:57,06:27,5,berpasangan,4,Yes
+ID_382,perempuan,20,South Korea,S1,KakaoTalk,4.3,Yes,20:18,03:48,6,berpasangan,3,No
+ID_483,P,20,Mexico,S1,Facebook,6.2,Yes,23:36,05:54,5,lajang,4,Yes
+ID_662,P,22,Kyrgyzstan,S2,Facebook,2.9,No,23:08,06:08,7,berpasangan,2,No
+ID_185,male,21,Maldives,S2,TikTok,5.0,Yes,22:01,03:07,6,berpasangan,4,Yes
+ID_301,male,19,Mexico,S1,Facebook,6.5,Yes,23:22,05:28,5,lajang,4,Yes
+ID_519,laki-laki,22,China,S2,WeChat,4.2,No,21:27,05:33,7,berpasangan,2,No
+ID_548,female,23,Poland,S2,Instagram,6.2,Yes,20:00,02:24,5,lajang,4,Yes
+ID_180,perempuan,21,Switzerland,S1,Instagram,4.2,No,23:00,06:30,7,berpasangan,2,No
+ID_528,perempuan,19,UAE,SMA,Instagram,6.2,Yes,20:52,01:58,5,berpasangan,4,Yes
+ID_46,female,20,Finland,S1,TikTok,5.4,Yes,22:47,04:29,5,lajang,4,Yes
+ID_664,L,22,Ireland,S2,Twitter,5.7,Yes,22:51,05:39,6,lajang,3,Yes
+ID_165,L,21,Canada,S2,Instagram,4.3,Yes,23:14,07:08,6,lajang,3,Yes
+ID_187,perempuan,20,Spain,S1,TikTok,4.5,Yes,22:14,05:38,6,lajang,3,Yes
+ID_95,perempuan,21,Lithuania,S2,Facebook,3.2,No,20:04,02:52,7,berpasangan,2,No
+ID_547,L,21,UK,S2,TikTok,5.8,Yes,21:26,03:56,6,berpasangan,3,Yes
+ID_89,laki-laki,22,Poland,S2,Facebook,3.6,No,20:55,05:25,7,lajang,2,No
+ID_81,L,21,China,S2,WeChat,4.3,No,23:40,07:40,7,berpasangan,2,No
+ID_10,P,20,Australia,S1,Instagram,4.3,No,20:20,03:50,7,lajang,2,No
+ID_650,male,22,Pakistan,S2,Instagram,3.9,Yes,21:52,05:46,5,berpasangan,3,Yes
+ID_406,P,21,Mexico,S1,TikTok,6.3,Yes,21:04,03:16,5,lajang,4,Yes
+ID_661,male,21,Turkey,S2,Instagram,4.9,Yes,22:19,05:37,6,lajang,3,Yes
+ID_434,perempuan,20,France,S1,Instagram,3.2,No,21:40,06:28,7,berpasangan,2,No
+ID_663,male,24,Italy,S2,Facebook,4.7,No,21:56,05:08,7,berpasangan,2,No
+ID_77,L,22,India,S2,Facebook,5.2,No,23:04,06:10,7,berpasangan,2,No
+ID_35,L,22,New Zealand,S2,Instagram,4.1,Yes,23:59,08:05,7,berpasangan,3,No
+ID_140,P,20,South Korea,S1,KakaoTalk,4.8,Yes,20:26,03:26,6,lajang,3,No
+ID_660,female,20,Peru,S1,TikTok,5.5,Yes,23:05,04:41,5,lajang,4,Yes
+ID_225,male,22,Sri Lanka,S2,Facebook,5.5,Yes,20:09,01:39,6,lajang,3,Yes
+ID_60,male,24,Denmark,S2,Twitter,4.5,No,22:57,06:15,7,berpasangan,2,No
+ID_324,L,21,Mexico,S2,WhatsApp,7.3,Yes,20:37,01:31,6,lajang,3,Yes
+ID_84,P,20,Spain,S1,TikTok,3.5,Yes,21:30,05:54,6,lajang,3,Yes
+ID_240,female,19,USA,S1,Instagram,6.9,Yes,22:02,03:26,5,berpasangan,4,Yes
+ID_506,P,19,Nepal,S1,TikTok,6.4,Yes,23:19,03:31,6,lajang,4,Yes
+ID_3,female,19,Maldives,S1,Instagram,4.9,Yes,22:46,04:34,6,lajang,3,Yes
+ID_384,L,20,Cyprus,S1,Facebook,3.8,No,20:31,03:07,7,hubungan rumit,2,No
+ID_343,female,19,Bangladesh,S1,Instagram,4.8,Yes,22:39,05:15,5,lajang,3,Yes
+ID_536,female,24,India,S2,TikTok,7.0,Yes,23:04,04:52,4,lajang,5,Yes
+ID_202,perempuan,20,USA,S1,TikTok,7.6,Yes,20:25,01:07,5,berpasangan,4,Yes
+ID_454,female,20,Bangladesh,S1,Instagram,4.5,Yes,22:39,05:51,5,lajang,3,Yes
+ID_620,P,19,Ireland,S1,Instagram,3.6,Yes,20:29,04:47,7,lajang,3,No
+ID_376,male,21,India,S2,Facebook,4.7,No,23:15,07:27,7,berpasangan,2,No
+ID_232,L,19,Lebanon,SMA,YouTube,5.8,Yes,22:49,04:01,5,hubungan rumit,4,Yes
+ID_610,P,19,Japan,S1,LINE,3.7,No,21:35,05:23,8,lajang,1,No
+ID_268,laki-laki,21,Italy,S2,Instagram,5.0,Yes,22:11,05:17,5,lajang,3,Yes
+ID_282,perempuan,19,Qatar,S1,TikTok,4.9,Yes,21:40,03:22,6,lajang,3,Yes
+ID_581,P,21,Finland,S1,Instagram,4.4,No,20:19,03:43,7,berpasangan,2,No
+ID_409,L,22,Canada,S2,TikTok,5.2,Yes,21:59,04:59,6,lajang,3,Yes
+ID_410,laki-laki,21,Denmark,S2,Facebook,2.6,No,22:04,07:16,8,berpasangan,2,No
+ID_136,laki-laki,22,New Zealand,S2,Instagram,4.3,Yes,21:54,05:48,7,berpasangan,3,No
+ID_461,laki-laki,22,Germany,S2,Instagram,3.4,No,23:53,07:59,8,lajang,1,No
+ID_337,laki-laki,21,India,S2,WhatsApp,6.5,Yes,23:09,04:57,5,berpasangan,4,Yes
+ID_9,female,21,Monaco,S1,Instagram,4.5,Yes,22:45,04:33,6,hubungan rumit,3,Yes
+ID_420,perempuan,20,Ireland,S1,TikTok,4.7,Yes,22:39,05:51,7,lajang,3,No
+ID_361,perempuan,22,Mexico,S2,Facebook,6.4,Yes,22:00,04:12,5,lajang,4,Yes
+ID_323,perempuan,20,UAE,S1,Instagram,6.9,Yes,20:34,02:40,5,berpasangan,4,Yes
+ID_493,male,22,Canada,S2,TikTok,4.4,Yes,22:31,06:19,6,lajang,3,Yes
+ID_141,laki-laki,21,Malaysia,S2,WhatsApp,5.7,Yes,23:41,06:17,6,lajang,3,Yes
+ID_433,L,22,China,S2,WeChat,4.4,No,22:33,06:27,7,berpasangan,2,No
+ID_278,perempuan,19,France,S1,Twitter,4.7,No,22:18,05:42,7,lajang,2,No
+ID_441,laki-laki,19,Colombia,S1,Instagram,4.8,Yes,20:34,02:28,6,berpasangan,3,Yes
+ID_665,male,19,Bangladesh,S1,TikTok,4.1,Yes,22:26,05:56,5,lajang,4,Yes
+ID_666,laki-laki,22,Montenegro,S2,Facebook,2.9,No,22:45,05:45,7,berpasangan,2,No
+ID_692,P,20,Ireland,S1,TikTok,4.1,Yes,21:30,05:18,7,lajang,3,No
+ID_247,L,24,Ireland,S2,Instagram,5.9,Yes,22:24,04:54,6,lajang,3,Yes
+ID_445,male,22,Germany,S2,Instagram,3.6,No,21:39,05:33,8,lajang,1,No
+ID_335,male,19,Austria,S1,Instagram,4.9,Yes,20:39,02:27,6,hubungan rumit,3,Yes
+ID_675,L,21,New Zealand,S2,Instagram,4.6,Yes,21:01,04:37,7,berpasangan,3,No
+ID_436,perempuan,24,China,S2,WeChat,5.5,Yes,23:31,06:19,6,berpasangan,3,Yes
+ID_115,L,21,Denmark,S2,Facebook,3.0,No,21:14,06:02,8,berpasangan,2,No
+ID_101,L,22,Maldives,S2,TikTok,4.9,Yes,22:24,03:18,6,berpasangan,4,Yes
+ID_541,female,20,India,S1,Instagram,5.4,Yes,22:56,04:20,6,berpasangan,3,Yes
+ID_580,P,21,UK,S1,Twitter,6.2,Yes,23:52,06:10,5,lajang,4,Yes
+ID_368,male,22,Mexico,S2,Facebook,6.3,Yes,21:26,03:38,5,lajang,4,Yes
+ID_347,male,21,Turkey,S2,Instagram,4.1,Yes,20:34,04:40,6,lajang,3,Yes
+ID_82,laki-laki,19,Ukraine,S1,TikTok,4.9,Yes,23:10,04:52,6,hubungan rumit,3,Yes
+ID_25,perempuan,20,India,S1,Instagram,5.0,Yes,22:42,03:42,6,berpasangan,3,Yes
+ID_281,laki-laki,19,France,S1,Snapchat,4.8,Yes,22:54,05:06,5,hubungan rumit,3,Yes
+ID_689,perempuan,20,Ireland,S1,Instagram,5.0,Yes,21:50,04:50,7,lajang,3,No
+ID_216,laki-laki,24,USA,S2,Twitter,5.4,Yes,23:25,06:13,6,berpasangan,3,Yes
+ID_428,laki-laki,21,Italy,S2,TikTok,4.9,Yes,21:18,04:30,5,berpasangan,3,Yes
+ID_543,laki-laki,22,Denmark,S2,Facebook,3.9,No,21:41,05:35,8,berpasangan,2,No
+ID_593,laki-laki,21,UK,S2,Facebook,5.2,Yes,21:35,03:59,6,berpasangan,3,Yes
+ID_27,male,20,Nepal,S1,Facebook,4.5,No,22:48,06:18,7,lajang,2,No
+ID_276,laki-laki,21,Mexico,S2,WhatsApp,7.1,Yes,21:17,02:23,6,lajang,3,Yes
+ID_560,laki-laki,22,Germany,S2,Facebook,4.1,No,20:40,04:22,8,berpasangan,2,No
+ID_51,female,20,USA,S1,TikTok,7.8,Yes,21:15,01:45,5,berpasangan,4,Yes
+ID_175,laki-laki,21,China,S2,WeChat,4.5,No,21:23,05:11,7,berpasangan,2,No
+ID_126,male,23,Canada,S2,Instagram,5.2,Yes,23:28,06:28,6,berpasangan,3,No
+ID_555,laki-laki,18,Trinidad,SMA,TikTok,5.6,Yes,22:57,04:09,5,lajang,4,Yes
+ID_231,male,22,Maldives,S2,TikTok,4.5,Yes,21:03,01:09,6,berpasangan,4,Yes
+ID_494,female,19,Spain,S1,Instagram,4.8,Yes,22:53,05:59,6,lajang,3,Yes
+ID_311,P,20,Ireland,S1,TikTok,3.5,Yes,22:05,06:29,7,lajang,3,No
+ID_300,female,20,UAE,S1,Instagram,7.1,Yes,22:21,04:15,5,berpasangan,4,Yes
+ID_570,laki-laki,22,Maldives,S2,TikTok,5.1,Yes,21:19,02:37,6,berpasangan,4,Yes
+ID_123,P,20,Nepal,S1,TikTok,5.5,Yes,20:36,02:30,6,lajang,4,Yes
+ID_605,male,21,Denmark,S2,Facebook,3.6,No,21:28,05:40,8,berpasangan,2,No
+ID_635,laki-laki,21,Canada,S2,Instagram,4.1,Yes,22:00,06:06,6,lajang,3,Yes
+ID_430,male,21,Mexico,S2,WhatsApp,6.3,Yes,22:38,04:32,6,lajang,3,Yes
+ID_637,laki-laki,21,Pakistan,S2,Instagram,4.2,Yes,22:38,05:56,5,berpasangan,3,Yes
+ID_633,L,21,Canada,S2,Instagram,4.8,Yes,22:30,05:54,7,lajang,3,No
+ID_416,male,24,Spain,S2,TikTok,6.6,Yes,21:30,03:42,5,lajang,4,Yes
+ID_196,laki-laki,21,Pakistan,S2,Instagram,4.4,Yes,23:06,06:00,5,berpasangan,3,Yes
+ID_533,P,19,USA,S1,Instagram,6.7,Yes,20:55,02:43,4,lajang,4,Yes
+ID_669,female,19,Switzerland,S1,Instagram,2.3,No,20:20,05:50,8,lajang,2,No
+ID_453,laki-laki,22,Mexico,S2,WhatsApp,6.4,Yes,20:15,02:03,6,lajang,3,Yes
+ID_310,P,19,USA,S1,TikTok,6.6,Yes,21:45,03:21,4,berpasangan,4,Yes
+ID_372,perempuan,20,Singapore,S1,TikTok,5.4,Yes,23:44,06:26,6,lajang,3,Yes
+ID_700,L,20,Sri Lanka,S1,Facebook,5.9,Yes,23:36,05:30,6,lajang,3,Yes
+ID_114,P,20,India,S1,TikTok,7.1,Yes,22:32,04:20,4,lajang,5,Yes
+ID_122,P,19,Sri Lanka,S1,Facebook,4.3,No,22:54,07:36,7,lajang,2,No
+ID_135,L,24,USA,S2,Instagram,5.6,Yes,21:17,04:11,6,berpasangan,3,Yes
+ID_350,laki-laki,22,Switzerland,S2,Facebook,4.5,No,23:53,07:11,7,berpasangan,2,No
+ID_105,L,22,India,S2,WhatsApp,6.4,Yes,22:03,03:57,5,berpasangan,4,Yes
+ID_567,male,22,Denmark,S2,Facebook,2.5,No,23:20,08:38,8,berpasangan,2,No
+ID_306,male,21,Kenya,S1,Facebook,3.7,No,22:53,05:29,7,lajang,2,No
+ID_354,laki-laki,22,Italy,S2,LinkedIn,2.8,No,23:58,07:10,8,lajang,1,No
+ID_523,laki-laki,21,Canada,S2,Instagram,4.5,Yes,21:20,05:02,6,lajang,3,Yes
+ID_191,P,20,Italy,S1,TikTok,4.7,No,22:24,05:36,7,berpasangan,2,No
+ID_704,male,21,Turkey,S2,Instagram,3.9,Yes,21:56,06:14,6,lajang,3,Yes
+ID_423,male,20,Tajikistan,S1,YouTube,4.7,Yes,22:03,03:57,6,lajang,3,Yes
+ID_302,L,18,Kuwait,SMA,Snapchat,5.7,Yes,22:35,03:53,5,berpasangan,4,Yes
+ID_222,female,19,Japan,S1,LINE,3.5,No,20:56,04:56,8,lajang,1,No
+ID_419,male,21,Georgia,S2,LinkedIn,3.0,No,21:59,05:05,8,berpasangan,1,No
+ID_273,L,22,India,S2,WhatsApp,6.8,Yes,23:10,04:40,5,berpasangan,4,Yes
+ID_386,P,19,France,S1,Instagram,4.5,No,22:59,06:29,7,berpasangan,2,No
+ID_154,perempuan,20,Switzerland,S1,TikTok,4.6,No,22:19,05:31,7,berpasangan,2,No
+ID_163,male,22,Denmark,S2,Facebook,3.3,No,23:08,07:38,8,berpasangan,2,No
+ID_534,perempuan,20,South Korea,S1,KakaoTalk,4.2,Yes,22:35,06:11,6,lajang,3,No
+ID_603,L,22,Mexico,S2,WhatsApp,6.2,Yes,22:05,04:05,6,lajang,3,Yes
+ID_133,laki-laki,21,Poland,S2,Facebook,3.9,No,21:59,06:11,7,lajang,2,No
+ID_78,L,21,Italy,S2,Instagram,5.4,Yes,23:37,06:19,5,lajang,3,Yes
+ID_571,female,20,USA,S1,TikTok,6.8,Yes,22:56,04:26,5,berpasangan,4,Yes
+ID_554,male,21,India,S2,WhatsApp,7.1,Yes,22:39,03:51,5,berpasangan,4,Yes
+ID_550,perempuan,19,Nepal,S1,TikTok,6.2,Yes,23:19,03:55,6,lajang,4,Yes
+ID_414,male,21,Canada,S2,Instagram,4.9,Yes,23:45,07:03,6,lajang,3,Yes
+ID_210,female,18,Armenia,SMA,Instagram,5.9,Yes,20:16,01:28,5,hubungan rumit,4,Yes
+ID_148,L,22,Russia,S2,VKontakte,3.7,No,20:25,04:43,7,berpasangan,2,No
+ID_38,female,20,South Korea,S1,KakaoTalk,4.4,Yes,23:11,06:35,6,lajang,3,No
+ID_150,P,21,Croatia,S1,Instagram,4.8,Yes,23:02,04:50,6,lajang,3,Yes
+ID_298,female,20,Switzerland,S1,Instagram,3.8,No,22:19,06:19,8,lajang,2,No
+ID_68,P,22,Malta,S2,LinkedIn,2.7,No,22:56,06:08,8,berpasangan,1,No
+ID_315,male,24,Spain,S2,Facebook,6.5,Yes,20:11,02:17,5,lajang,4,Yes
