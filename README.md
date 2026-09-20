@@ -96,3 +96,30 @@ This dataset contains information about students' social media usage habits from
 
 ### Evaluation Metric
 Predictions are evaluated using Macro F1-Score.
+
+## Macro F1–Score
+The Macro F1–Score calculates the F1–Score for each class separately, then takes the average of all classes.
+
+### Formula
+
+$$\text{Macro F1-Score} = \frac{1}{K} \sum_{i=1}^{K} F1_i$$
+
+Where:
+
++ $K$ = number of classes
++ $F1_i$ = F1–Score for the $i$-th class
+
+### F1–Score per Class
+For each class $i$:
+
+$$F1_i = 2 \times \frac{\text{Precision}_i \times \text{Recall}_i}{\text{Precision}_i + \text{Recall}_i}$$
+
+Where:
+
+$$\text{Precision}_i = \frac{TP_i}{TP_i + FP_i}$$
+
+$$\text{Recall}_i = \frac{TP_i}{TP_i + FN_i}$$
+
++ $TP_i$ = True Positive for class $i$ (predicted class $i$ and actually class $i$)
++ $FP_i$ = False Positive for class $i$ (predicted class $i$ but actually not class $i$)
++ $FN_i$ = False Negative for class $i$ (actually class $i$ but not predicted class $i$)
